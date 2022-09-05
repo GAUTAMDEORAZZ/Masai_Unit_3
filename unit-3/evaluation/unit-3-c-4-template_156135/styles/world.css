@@ -1,0 +1,24 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: aquamarine;
+
+}
+
+#category{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#category>h3{
+    padding-left: 20px;
+    cursor: pointer;
+    color: chocolate;
+}
+#navbar>#search_box{
+    width: 60%;
+    height: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
